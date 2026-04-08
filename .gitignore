@@ -1,0 +1,12 @@
+# Python environment folders
+env_sp500/
+.venv/
+
+# Generated data artifacts
+data/feature_engineered_data0.csv
+data/sp500_notebook_data.csv
+data/sp500_unseen.csv
+feature_engineered_data.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
